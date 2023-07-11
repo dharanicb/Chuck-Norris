@@ -40,7 +40,8 @@ In this project, let's build an **Chuck-Norries** by applying the concepts we ha
 <details>
 <summary>Functionality to be added</summary>
 <br/>
-## this project video deploy link
+     
+### this project video deploy link
 ```
      See the section about [deployment](https://drive.google.com/uc?id=1j1F1yhlOO0EmaHFmSmltiwh_s6eOm_KL) for more information.
 ```

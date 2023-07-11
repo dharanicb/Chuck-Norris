@@ -8,7 +8,7 @@ In this project, let's build an **Chuck-Norries** by applying the concepts we ha
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://www.loom.com/share/a1bbcfe4f7fc4dc19f8f2064a2128f8f?sid=7f166e04-2881-4ed5-9ad5-88f869facdb2" alt="emoji-game-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://drive.google.com/file/d/1j1F1yhlOO0EmaHFmSmltiwh_s6eOm_KL/view?usp=sharing" alt="emoji-game-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 

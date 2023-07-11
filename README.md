@@ -42,9 +42,8 @@ In this project, let's build an **Chuck-Norries** by applying the concepts we ha
 <br/>
      
 ### this project video deploy link
-```
-     See the section about [deployment](https://drive.google.com/uc?id=1j1F1yhlOO0EmaHFmSmltiwh_s6eOm_KL) for more information.
-```
+
+See the section about [deployment](https://drive.google.com/uc?id=1j1F1yhlOO0EmaHFmSmltiwh_s6eOm_KL) for more information.
      
 ## Available Scripts
 

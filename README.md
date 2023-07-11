@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In this project, let's build an **Chuck-Norries** by applying the concepts we have learned till now.
 
-### Refer to the image below:
+### Refer to the video below:
 
 <br/>
 <div style="text-align: center;">

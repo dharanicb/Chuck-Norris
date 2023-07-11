@@ -2,6 +2,43 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this project, let's build an **Chuck-Norries** by applying the concepts we have learned till now.
+
+### Refer to the image below:
+
+<br/>
+<div style="text-align: center;">
+    <img src="https://www.loom.com/share/a1bbcfe4f7fc4dc19f8f2064a2128f8f?sid=7f166e04-2881-4ed5-9ad5-88f869facdb2" alt="emoji-game-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+</div>
+<br/>
+
+### Design Files
+
+<details>
+<summary>Click to view</summary>
+
+- [Extra Small (Size < 576px), Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/emoji-game-sm-outputs.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Game View](https://assets.ccbp.in/frontend/content/react-js/emoji-game-lg-output-v2.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Won Game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-won-game-lg-output.png)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Lose Game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-lose-game-lg-output.png)
+
+</details>
+
+### Set Up Instructions
+
+<details>
+<summary>Click to view</summary>
+
+- Download dependencies by running `npm install`
+- Start up the app using `npm start`
+</details>
+
+### Completion Instructions
+
+<details>
+<summary>Functionality to be added</summary>
+<br/>
+
 ## Available Scripts
 
 In the project directory, you can run:
